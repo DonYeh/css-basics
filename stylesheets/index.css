@@ -4,6 +4,7 @@ These are the styles for the whole document
 
 .main-title {
   background: red;
+  padding: 10px 35px;
 }
 
 .fancy-font,
